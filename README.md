@@ -16,7 +16,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 - 🌱 I’m currently learning Ruby and Appium
 - 🤩 I’m enthusiastic about 📲 developing
 - 🤔 I’m looking for help with HTTParty
-- 😄 Pronouns: Ness or Van
+- 😄 Pronouns: she/her
 
 
 
