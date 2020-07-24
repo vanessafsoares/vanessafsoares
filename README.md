@@ -10,11 +10,13 @@
 ### Hellooo! 👋 Welcome to my profile
 
 My name is Vanessa and i'm Quality Assurance Engineer:
-
+<br/>
 - 🔭 I’m currently working on Neon Pagamentos
 - 📖 I’m currently learning Appium, HTTParty, Android + Kotlin, Cypress
 - 🤩 I’m enthusiastic about 📲 developing
 - 😄 Pronouns: she/her
+
+<br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
