@@ -22,8 +22,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 [![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&link=https://www.ruby-lang.org/)](https://www.ruby-lang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=oracle&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c#&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=oracle&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Csharp](https://img.shields.io/badge/-Csharp-00599C?style=flat-square&logo=csharp#&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
