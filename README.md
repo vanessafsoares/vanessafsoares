@@ -18,22 +18,27 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 - 👩🏻‍💻 I’m looking to collaborate on open-source
 - 😄 Pronouns: she/her
 
-### Languages & Tools
+### Languages & Tools ⚙️
 
 [![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&link=https://www.ruby-lang.org/)](https://www.ruby-lang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=sql&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=database&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c++&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/vanessafsoare/s)](https://github.com/vanessafsoares)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Jenkins](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+
+
+[![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/vanessafsoare/s)](https://github.com/vanessafsoares)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 **Learning 📖**
 
