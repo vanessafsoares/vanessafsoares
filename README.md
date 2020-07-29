@@ -19,7 +19,12 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 <br />
 
+## 📫 Contact Me
+- [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
+- [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vanessafsoares) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vanessafsoares.vanessafsoares)
