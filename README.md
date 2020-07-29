@@ -1,5 +1,5 @@
 <div align="center">
-# Vanessa Soares 👩🏻‍💻
+<h2> Vanessa Soares 👩🏻‍💻</h2>
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vanessa_soares/)](https://medium.com/vanessa_soares/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vanessafsoares/)
@@ -13,11 +13,11 @@
 
 My name is Vanessa and i'm Quality Assurance Engineer:
 
-- 🔭 I’m currently working on Picpay 💚
-- 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
-- 🤩 I’m enthusiastic about 📲 developing
-- 👩🏻‍💻 I’m looking to collaborate on open-source
-- 😄 Pronouns: she/her
+ - 🔭 I’m currently working on Picpay 💚
+ - 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
+ - 🤩 I’m enthusiastic about 📲 developing
+ - 👩🏻‍💻 I’m looking to collaborate on open-source
+ - 😄 Pronouns: she/her
 
 ### Languages, Frameworks & Tools ⚙️
 
@@ -61,8 +61,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 
 ## 📫 Contact Me
-- [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
-- [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
+ - [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
+ - [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
