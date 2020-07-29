@@ -22,3 +22,5 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 - [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
+
+<img src="https://komarev.com/ghpvc/?username=vanessafsoares" alt="vanessafsoares" />
