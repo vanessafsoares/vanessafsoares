@@ -11,8 +11,8 @@
 
 My name is Vanessa and i'm Quality Assurance Engineer:
 <br/>
-- 🔭 I’m currently working on Neon Pagamentos
-- 📖 I’m currently learning Appium, HTTParty, Android + Kotlin, Cypress
+- 🔭 I’m currently working on Picpay 💚
+- 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
 - 🤩 I’m enthusiastic about 📲 developing
 - 😄 Pronouns: she/her
 
