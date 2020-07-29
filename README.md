@@ -46,8 +46,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 **Learning 📖**
 
+[![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Appium](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https:https://github.com/vanessafsoares)](https://github.com/vanessafsoares)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 **Enthusiastic 🤩**
