@@ -1,3 +1,4 @@
+<div align="center">
 # Vanessa Soares 👩🏻‍💻
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vanessa_soares/)](https://medium.com/vanessa_soares/)
@@ -35,7 +36,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-b5bcbd?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 
@@ -66,3 +67,5 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
 <img src="https://komarev.com/ghpvc/?username=vanessafsoares" alt="vanessafsoares" />
+
+</div>
