@@ -28,8 +28,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 [![Appium](https://img.shields.io/badge/-Appium-purple?style=flat-square&logo=appium&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Cucumber](https://img.shields.io/badge/-Cucumber-green?style=flat-square&logo=cucumber&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium-webdriver&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Cucumber](https://img.shields.io/badge/-Cucumber-60d179?style=flat-square&logo=cucumber.io&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
