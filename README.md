@@ -22,8 +22,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 [![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&link=https://www.ruby-lang.org/)](https://www.ruby-lang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=database&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c++&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=oracle&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c#&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
@@ -31,7 +31,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Jenkins](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 
