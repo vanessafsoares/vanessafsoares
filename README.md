@@ -1,5 +1,4 @@
-<div align="center">
-<h2> Vanessa Soares 👩🏻‍💻</h2>
+# Vanessa Soares 👩🏻‍💻
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vanessa_soares/)](https://medium.com/vanessa_soares/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vanessafsoares/)
@@ -13,11 +12,11 @@
 
 My name is Vanessa and i'm Quality Assurance Engineer:
 
- - 🔭 I’m currently working on Picpay 💚
- - 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
- - 🤩 I’m enthusiastic about 📲 developing
- - 👩🏻‍💻 I’m looking to collaborate on open-source
- - 😄 Pronouns: she/her
+- 🔭 I’m currently working on Picpay 💚
+- 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
+- 🤩 I’m enthusiastic about 📲 developing
+- 👩🏻‍💻 I’m looking to collaborate on open-source
+- 😄 Pronouns: she/her
 
 ### Languages, Frameworks & Tools ⚙️
 
@@ -28,6 +27,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Appium](https://img.shields.io/badge/-Appium-purple?style=flat-square&logo=appium&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Cucumber](https://img.shields.io/badge/-Cucumber-green?style=flat-square&logo=cucumber&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
@@ -45,27 +45,20 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
-**Learning 📖**
-
-[![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 **Enthusiastic 🤩**
 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
-[![Kotlin](https://img.shields.io/badge/-Kotlin-d870fa?style=flat-square&logo=kotlin&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 
 ## 📫 Contact Me
- - [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
- - [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
+- [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
+- [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
 <img src="https://komarev.com/ghpvc/?username=vanessafsoares" alt="vanessafsoares" />
-
-</div>
