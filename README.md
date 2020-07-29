@@ -25,6 +25,3 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vanessafsoares.vanessafsoares)
