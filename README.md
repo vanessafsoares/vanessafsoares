@@ -35,7 +35,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-yellow?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 
