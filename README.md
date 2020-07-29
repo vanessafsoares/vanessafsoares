@@ -22,8 +22,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 [![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&link=https://www.ruby-lang.org/)](https://www.ruby-lang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=oracle&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c-sharp#&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![SQL](https://img.shields.io/badge/-SQL-red?style=flat-square&logo=oracle&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![C#](https://img.shields.io/badge/-C%20Sharp-00599C?style=flat-square&logo=c-sharp#&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Appium](https://img.shields.io/badge/-Appium-purple?style=flat-square&logo=appium&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
@@ -35,7 +35,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-orange?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-b5bcbd?style=flat-square&logo=jenkins&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 
@@ -55,8 +55,8 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=kotlin&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Android](https://img.shields.io/badge/-Android-02569B?style=flat-square&logo=android&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-d870fa?style=flat-square&logo=kotlin&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
+[![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 
 
 ## 📫 Contact Me
