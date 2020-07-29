@@ -13,7 +13,7 @@
 My name is Vanessa and i'm Quality Assurance Engineer:
 
 - 🔭 I’m currently working on Picpay 💚
-- 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
+- 📖 I’m currently learning Appium, Cypress, Kotlin + Android
 - 🤩 I’m enthusiastic about 📲 developing
 - 👩🏻‍💻 I’m looking to collaborate on open-source
 - 😄 Pronouns: she/her
@@ -44,20 +44,7 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/vanessafsoare/s)](https://github.com/vanessafsoares)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-
-
-**Enthusiastic 🤩**
-
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-
-[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-[![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
-
-
-## 📫 Contact Me
-- [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
-- [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
+ 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
