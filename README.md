@@ -11,17 +11,14 @@
 ### Hellooo! 👋 Welcome to my profile
 
 My name is Vanessa and i'm Quality Assurance Engineer:
-<br/>
+
 - 🔭 I’m currently working on Picpay 💚
 - 📖 I’m currently learning Appium, HTTParty, Kotlin + Android, Cypress
 - 🤩 I’m enthusiastic about 📲 developing
 - 😄 Pronouns: she/her
 
-<br />
-
 ## 📫 Contact Me
 - [LinkedIn](https://in.linkedin.com/in/vanessafsoares)
 - [Whatsapp](https://api.whatsapp.com/send?phone=5511987745682&text=Olá,Vanessa!) 
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
