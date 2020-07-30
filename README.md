@@ -42,7 +42,6 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 
 [![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/vanessafsoare/s)](https://github.com/vanessafsoares)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
 [![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana&link=https://github.com/vanessafsoares/)](https://github.com/vanessafsoares/)
  
 
