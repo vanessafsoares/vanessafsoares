@@ -13,7 +13,7 @@
 My name is Vanessa and i'm Quality Assurance Engineer:
 
 - 🔭 I’m currently working on Picpay 💚
-- 📖 I’m currently learning Cypress, Javascript, Appium
+- 📖 I’m currently learning Javascript, Ruby, Cypress and Appium
 - 🤩 I’m enthusiastic about back-end with Node.js
 - 👩🏻‍💻 I’m looking to collaborate on open-source
 - 😄 Pronouns: she/her
