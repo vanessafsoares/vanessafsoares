@@ -15,7 +15,14 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 - 🤩 I’m enthusiastic about back-end with Node.js
 - 👩🏻‍💻 I’m looking to collaborate on open-source
 - 😄 Pronouns: she/her 
-- 🗣 Speaking fluent Brazilian Portuguese & advanced English
+
+### Languages
+</div>
+<div style="display: inline-block">
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+</div>
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
 
