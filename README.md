@@ -11,7 +11,8 @@
 
 My name is Vanessa and i'm Quality Assurance Engineer:
 
-- 📖 I’m currently learning Javascript, Ruby, Cypress and Appium
+- 📖 I’m currently learning Javascript, Ruby and Python languages
+- 📖 I’m also learning Cypress, Playwright, Detox and Appium frameworks
 - 🤩 I’m enthusiastic about back-end with Node.js
 - 👩🏻‍💻 I’m looking to collaborate on open-source
 - 😄 Pronouns: she/her 
