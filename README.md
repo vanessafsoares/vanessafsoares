@@ -9,7 +9,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Vanessa and i'm Quality Assurance Engineer:
+My name is Vanessa and I'm Quality Assurance Engineer:
 
 - 📖 I’m currently learning Javascript, Ruby and Python languages
 - 📖 I’m also learning Cypress, Playwright, Detox and Appium frameworks
@@ -26,6 +26,13 @@ My name is Vanessa and i'm Quality Assurance Engineer:
 </div>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vanessafsoares&hide=["prs","issues"])
+<div align="center">
+  <a href="https://github.com/ttorquati">
+    <img src="https://github-readme-stats.vercel.app/api?username=vanessafsoares&count_private=true&show_icons=true" height="172em" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafsoares&layout=compact" height="172em" style="max-width: 100%;" />
+  </a>
+</div>
+
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=vanessafsoares" alt="vanessafsoares" />
