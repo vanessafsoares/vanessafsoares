@@ -9,9 +9,9 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Vanessa and I'm Quality Assurance Engineer:
+My name is Vanessa and I'm Software Development Engineer in Test:
 
-- 📖 I’m currently learning Javascript, Ruby and Python languages
+- 📖 I’m currently learning Javascript, Typescript, Ruby and Python languages
 - 📖 I’m also learning Cypress, Playwright, Detox and Appium frameworks
 - 🤩 I’m enthusiastic about back-end with Node.js
 - 👩🏻‍💻 I’m looking to collaborate on open-source
