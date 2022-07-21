@@ -27,12 +27,19 @@ My name is Vanessa and I'm Software Development Engineer in Test:
 <br>
 
 <div align="center">
-  <a href="https://github.com/ttorquati">
+  <a href="https://github.com/vanessafsoares">
     <img src="https://github-readme-stats.vercel.app/api?username=vanessafsoares&count_private=true&show_icons=true" height="172em" style="max-width: 100%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafsoares&layout=compact" height="172em" style="max-width: 100%;" />
   </a>
 </div>
 
 <br />
+
+### Stats 
+<div align="center">
+  <a href="https://github.com/vanessafsoares">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanessafsoares&theme=github" height="190em" style="max-width: 100%;" />
+  </a>
+ </div>
 
 <img src="https://komarev.com/ghpvc/?username=vanessafsoares" alt="vanessafsoares" />
