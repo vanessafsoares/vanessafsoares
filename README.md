@@ -35,7 +35,6 @@ My name is Vanessa and I'm Software Development Engineer in Test:
 
 <br />
 
-### Stats 
 <div align="center">
   <a href="https://github.com/vanessafsoares">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanessafsoares&theme=github" height="190em" style="max-width: 100%;" />
