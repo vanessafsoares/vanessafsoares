@@ -28,7 +28,7 @@ My name is Vanessa and I'm Software Development Engineer in Test:
 
 <div align="center">
   <a href="https://github.com/vanessafsoares">
-    <img src="https://github-readme-stats.vercel.app/api?username=vanessafsoares&count_private=true&show_icons=true" height="172em" style="max-width: 100%;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanessafsoares&theme=github" height="172em" style="max-width: 100%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafsoares&layout=compact" height="172em" style="max-width: 100%;" />
   </a>
 </div>
