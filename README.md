@@ -11,8 +11,8 @@
 
 My name is Vanessa and I'm Software Development Engineer in Test:
 
-- 📖 I’m currently learning Javascript, Typescript, Ruby and Python languages
-- 📖 I’m also learning Cypress, Playwright, Detox and Appium frameworks
+- 📖 I’m currently learning Javascript, Typescript, Ruby, Java and Python languages
+- 📖 I’m also learning Playwright, Cypress, Detox, Maestro.dev and Appium frameworks
 - 👩🏻‍💻 I’m looking to collaborate on open-source
 - 😄 Pronouns: she/her 
 - 🗣 Speaking native Brazilian Portuguese & advanced English.
