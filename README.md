@@ -23,19 +23,13 @@ My name is Vanessa and I'm Software Development Engineer in Test:
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
 </div>
-<br>
 
-<div align="center">
-  <a href="https://github.com/vanessafsoares">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanessafsoares&theme=github" height="172em" style="max-width: 100%;" />
-</div>
-
-<br />
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/vanessafsoares">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanessafsoares&theme=github" height="190em" style="max-width: 100%;" />
   </a>
- </div>
+  <a href="https://github.com/vanessafsoares">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanessafsoares&theme=github" height="172em" style="max-width: 100%;" />
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=vanessafsoares" alt="vanessafsoares" />
